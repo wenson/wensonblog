@@ -1,4 +1,4 @@
-destination: ./_site
+destination: ./_posts
 auto:        true
 lsi:         false
 server_port: 4000
