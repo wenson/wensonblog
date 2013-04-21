@@ -12,13 +12,12 @@ title: 测试--W3nson's Blog
 
 Some Python code :
 
-```python
+
 	1. import os
 	2. print 'aaaa'
 	3. if blog == 'fsdfds':
 	4.   print 'fdsafdsf'
 
-```
 
 
 >1. 项目一
@@ -27,10 +26,11 @@ Some Python code :
 2. 小项目二
 
 ##小标题##
-```
+
+
 [![啊啊啊啊](http://developer.baidu.com/static/assets/r/image/2013-04-09/b0e8be867e7438c0ab705338d2e72c55.jpeg "我的标题")](http://baidu.com)
 ![啊啊啊啊](http://developer.baidu.com/static/assets/r/image/2013-04-09/b0e8be867e7438c0ab705338d2e72c55.jpeg "我的标题")
-```
+
 ##小标题##
 发生的范德萨  
 这个一个脚注。  
