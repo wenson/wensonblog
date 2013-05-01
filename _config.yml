@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : W3ns0n's Blog
-tagline: Site Tagline
+tagline: 本是同根生
 author :
   name : W3ns0n
   email : W3ns0n@gmail.com
@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : w3ns0nblog
     livefyre :
       site_id : 123
     intensedebate :
