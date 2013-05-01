@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 测试--W3nson's Blog
 ---
 {% include JB/setup %}
