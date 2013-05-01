@@ -2,7 +2,7 @@
 layout: default
 title: 测试--W3nson's Blog
 ---
-
+{% include JB/setup %}
 #测试下 Markdown#
 
 >大概吧
