@@ -48,7 +48,6 @@ BOSS阵型
 		<td>MT</td>
 		<td>空</td>
 	</tr>
-
 </table>
 或者
 <table class="table table-bordered table-striped table-condensed">
