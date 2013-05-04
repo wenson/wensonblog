@@ -62,7 +62,6 @@ BOSS阵型
 		<td>沐丝</td>
 		<td>MT</td>
 	</tr>
-
 </table>
 阵型B：全蓝金+N配置
 己方需要：2xMT，1x沐丝（任意蓝金以上可群刷的奶），2x 方砖，1x 物理DPS
@@ -80,7 +79,6 @@ BOSS阵型
 		<td>方砖</td>
 		<td>看方砖等级而定</td>
 	</tr>
-
 </table>
 BOSS阵型
 如果前面掉落满意，无需变阵，直接干BOSS
