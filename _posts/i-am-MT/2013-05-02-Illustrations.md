@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 我是MT 1.6安卓版 资料收集
-category :IamMT
+category:IamMT
 tagline: "我是MT 1.6安卓版 资料收集"
 tags : [图鉴, MT, 安卓, 1.6]
 ---
