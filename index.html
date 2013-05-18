@@ -4,6 +4,9 @@ title: W3nson's Blog
 ---
 <p>最新文章</p>
 <ul>
+{%for i in site%}
+{{ i }}
+{% endfor %}
 {% for post in site.posts %}
 <li>{{ post.date | date_to_string }} <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
