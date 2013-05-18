@@ -14,8 +14,8 @@ tagline: 本是同根生
 author :
   name : W3ns0n
   email : W3ns0n@gmail.com
-  github : W3ns0n
-  twitter : W3ns0n
+  #github : W3ns0n
+ # twitter : W3ns0n
 
 
 # The production_url is only used when full-domain names are needed
