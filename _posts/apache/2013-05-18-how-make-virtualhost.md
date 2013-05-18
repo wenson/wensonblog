@@ -65,3 +65,5 @@ httpd-vhosts.conf
 
 问题：需要修改 httpd.conf吗？  
 答复：按照xampp的默认配置的话是不需要的。
+
+待续。。。。。
