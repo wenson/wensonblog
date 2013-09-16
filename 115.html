@@ -32,22 +32,21 @@ var begintime = (new Date()).getTime();
 <script type="text/javascript">
   var idgJsHost = (("https:" == document.location.protocol) ? "https" : "http");
   var idgDomain = idgJsHost == "http" ? "1" : "2"; 
-  document.write(unescape("%3Cscript src='" + idgJsHost + "://" + idgDomain + ".allyes.com.cn/idigger.js' type='text/javascript'%3E%3C/script%3E"));
+  document.write(unescape("%3Cscript src='" + idgJsHost + "://" + idgDomain + ".irs02.com/iwebtracker2.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
 try {
-  var sony = _alysP.init("iadvalue", "T-000001-01");
-  sony._setTrackPath(idgJsHost + '://114.111.162.233/main/adftrack');
-  sony._setLinkClick(true) ;
-  sony._setPageLoadedTime(begintime);
-  sony._setECM(s);
-  sony._setClickHot(1);
-  sony._setTag("营销活动1");
-  sony._trackPoint();
+  var idgTracker = _alysP.init("iadvalue", "T-000298-01");
+  idgTracker._setTrackPath(idgJsHost + '://114.111.162.233/main/adftrack');
+
+    idgTracker._setLinkClick(true) ;
+  idgTracker._setPageLoadedTime(begintime);
+  idgTracker._setECM(s);
+  idgTracker._setClickHot(1);
+  idgTracker._setTag("营销活动1");
+  idgTracker._trackPoint();
 } catch(err) {}
 </script>
-
-
 
 
 <script type="text/javascript">
@@ -56,19 +55,11 @@ try {
 function mytrackPV(){
    idgTracker._setTKV("注册成功",'测试');
    idgTracker._trackPV("/virtual/flashbuttons/button1");
-   idg._setTKV("注册成功",'测试');
-   idg._trackPV("/virtual/button1");
-   idiggerbjsem._setTKV("注册成功",'测试');
-   idiggerbjsem._trackPV("/virtual/idiggerbjsem");
 
-   sony._setTKV("注册成功",'测试');
-   sony._trackPV("/virtual/sony");
 }
 function mytrackEvent(){
   idgTracker._trackEvent("会员登录A", "点击登录1A", "点击登录A");
-  idg._trackEvent("会员登录", "点击登录1", "点击登录");
-  idiggerbjsem._trackEvent("会员登录idiggerbjsem", "点击登录1idiggerbjsem", "点击登录idiggerbjsem");
-  idsony._trackEvent("会员登录sony", "点击登录1sony", "点击登录sony");
+
 }
 
 
